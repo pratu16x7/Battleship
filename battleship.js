@@ -1,4 +1,4 @@
-//The view is responsible for updating the display
+// The view is responsible for updating the display
 var view = {
 	displayMessage: function(msg) {
 		var msgArea = document.getElementById("messageArea");
